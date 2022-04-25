@@ -1,0 +1,74 @@
+html {
+  background-image: url(michael.jpg);
+  background-size: 400px 500px;
+  background-repeat: repeat; 
+}
+
+h1 {
+  color: blue;
+  background-color: khaki;
+  width: 600px;
+  display: block;
+  border: 50px aliceblue;
+  margin-left: pink;
+  font-size: 100px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+  background-color: darkcyan;
+  color: black;
+  font-size: 15px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+n{
+  color: pink;
+  background-color: red;
+  font-size: 23px;
+
+}
+
+p1{
+  background-color: yellow;
+  color:cyan;
+  font-size: 15px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p{
+  background-color:azure;
+  color: green;
+  opacity: 0.6
+}
+
+button {
+  font-size: 50pt;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background-color: olive;
+  color: orchid;
+  opacity: 0.9;
+}
+
+.chickens:hover {
+  opacity: 0.8
+}
+
+.ppap:hover {
+  opacity: 0.6
+}
+random {
+  font-size: 50px;
+  font-family: fantasy;
+  background-color: black;
+  color: white
+}
+
+end {
+  background-color: darkmagenta;
+  opacity: 0.8;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+  text-align: left;
+  color: blanchedalmond
+}
